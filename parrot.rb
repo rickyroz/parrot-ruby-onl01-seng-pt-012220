@@ -5,4 +5,4 @@ def Parrot (arg ='Squawk!')
   return arg
 end
 
-parrot("bird")
+Parrot("bird")
