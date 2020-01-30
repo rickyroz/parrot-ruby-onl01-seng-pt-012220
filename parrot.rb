@@ -4,3 +4,5 @@ def Parrot (arg ='Squawk!')
   puts arg
   return arg
 end
+
+parrot ("pretty bird")
