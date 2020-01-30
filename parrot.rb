@@ -2,5 +2,5 @@
 # returns the phrase
 def Parrot (arg ="Squawk")
   puts = arg
-  return ("Squawk")
+  return arg
 end
